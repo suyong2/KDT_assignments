@@ -3,3 +3,7 @@
 *.csv
 *.zip
 *.~*
+cifar-10-batches-py
+datasets
+__pycache__
+*.sh
