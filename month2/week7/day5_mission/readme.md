@@ -13,5 +13,5 @@
 => 손실함수: LinearRegression 자체 손실함수(residual sum of squares)  
 
 ### 테스트 데이터에 대한 평가지표들  
-=> RMSE: 1045.1158985838679  
-=> Under-prediction의 비율: 0.41637273865058594  
+=> RMSE: 1045.893096844334  
+=> Under-prediction의 비율: 0.4171691887586756  
